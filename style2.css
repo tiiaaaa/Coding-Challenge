@@ -1,0 +1,86 @@
+body{
+  background-image: url('file:///C:/Users/Mattia/OneDrive/Desktop/BOOLEAN/Coding%20Challenge/background.jpg');
+  background-size: cover;
+}
+
+.conteiner{
+  width: 900px;
+  height: 600px;
+  margin: auto;
+  margin-top: 25px;
+  background-color: #000000;
+  border-radius: 5%;
+}
+
+.header{
+  width: 350px;
+  margin: auto;
+  padding-top: 30px;
+}
+
+ img{
+  width: 200px;
+  margin-left: 65px;
+}
+
+header > h2{
+  margin-top: 5px;
+  color: lime;
+}
+
+.menu{
+  width: 800px;
+  margin: auto;
+  padding: 10px;
+  background-color: lime;
+}
+
+nav > div{
+  width: 320px;
+  margin: auto;
+}
+
+.corpo{
+  width: 800px;
+  margin:auto;
+}
+
+section > h3{
+  display: inline-block;
+  margin-bottom: 1px;
+  color: white;
+}
+
+section > p{
+  margin-top: 1px;
+  margin-bottom: 1px;
+  color: white;
+}
+
+span:after{
+  content: "\2192";
+}
+
+.line, .line2, .line3{
+  height: 20px;
+  margin-top: 0px;
+  border-radius: 3%;
+}
+
+.line{
+  margin-right: 550px;
+  background-color: orange;
+  border: orange;
+}
+
+.line2{
+  margin-right: 300px;
+  background-color: lime;
+  border-color: lime;
+}
+
+.line3{
+  margin-right: 700px;
+  background-color: red;
+  border-color: red;
+}
